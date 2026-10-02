@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Warm-up | Tier 1 | 0.5h | 1 |
+| Warm-up | Tier 1 | 1h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-01 — I read part of "NFC For Dummies" and "A DIY NFC Tag". I started designing (on paper) what I wanted to build. I plan to use an NTAG213 for the IC because I only need to store a URL compared to a lot of
 
-**0.5h**
+**1h**
 
 I read part of "NFC For Dummies" and "A DIY NFC Tag". I started designing (on paper) what I wanted to build. I plan to use an NTAG213 for the IC because I only need to store a URL compared to a lot of data, I don't yet know what I need to do for the antenna. I want to also put a QR code on it just for it to look more professional. I need the antenna I add to resonate at 13.56MHz. hopefully during the next update, I'll have my antenna figured out.
 
